@@ -46,4 +46,5 @@ The solution was well received, and I was offered an internship by **AB Tech Vil
 * Demonstrates ability to build and ship quickly under pressure
 * Combines backend engineering with applied computer vision
 * Focused on solving real operational problems, not just technical tasks
+# video
 Drive link of the project :https://drive.google.com/file/d/16XyhY7sQ48yuXDh6_Ocp6H1EsdzJTs01/view?usp=sharing
